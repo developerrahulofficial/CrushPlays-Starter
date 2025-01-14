@@ -1,10 +1,7 @@
-"use client"
-
 
 const Home = () => {
-
     return (
-      <h1>Crush Plays - StarterFiles</h1>
+        <h1>CrushPlays-StartFiles</h1>
     )
 }
 

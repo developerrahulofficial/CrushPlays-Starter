@@ -1,3 +1,3 @@
-# Developer Rahul
+# Gibson Murray
 
-My personal website: Crush Play - Starter Files
+My personal website: A portfolio of my best web development adventures.
